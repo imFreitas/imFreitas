@@ -1,4 +1,7 @@
-## Olá! Sou o Pedro, Aluno do Instituto PROA 👋
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
+
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Olá!;+Meu+nome+é+Pedro+Henrique+de+Freitas;Tenho+19+anos;Sou+do+Brasil,+SP;Bem+vindo!+:%29)](https://git.io/typing-svg)
 
 - 🔭 Estou procurando emprego
 - 🌱 Estudando Desenvolvimento Web Java
@@ -7,8 +10,8 @@
 
 <div align="center">
   <a href="https://github.com/rafaballerini">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=imfreitas&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imfreitas&layout=compact&langs_count=7&theme=merko"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=imfreitas&show_icons=true&theme=gotham&hide_border=true&area=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imfreitas&layout=compact&langs_count=7&theme=gotham&hide_border=true&area=true"/>
 </div>
   
  ##
@@ -28,3 +31,4 @@
   ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
  
 </div>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
