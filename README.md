@@ -3,15 +3,20 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Olá!;+Meu+nome+é+Pedro+Henrique+de+Freitas;Tenho+19+anos;Sou+do+Brasil,+SP;Bem+vindo!+:%29)](https://git.io/typing-svg)
 
-- 🔭 Estou procurando emprego
-- 🌱 Estudando Desenvolvimento Web Java no instituto PROA
-- 📫 Contate-me no email: opedrofreitass@gmail.com
+### 🔭 Estou procurando emprego
+### 🌱 Estudando Desenvolvimento Web Java no instituto PROA
+### 📫 Contate-me no email: opedrofreitass@gmail.com
 
 
 <div align="center">
   <a href="https://github.com/imFreitas">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=imfreitas&show_icons=true&theme=gotham&hide_border=true&area=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imfreitas&layout=compact&langs_count=7&theme=gotham&hide_border=true&area=true"/>
+  
+  
+| ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=imfreitas&theme=2077) | ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=imfreitas&theme=2077&utcOffset=8) |
+| :-: | :-: |
+  
 </div>
   
  ##
