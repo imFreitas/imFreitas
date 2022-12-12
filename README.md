@@ -33,7 +33,15 @@
   <a href="https://www.linkedin.com/in/imphfreitas/)" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
   ###
-[![trophy](https://github-profile-trophy.vercel.app/?username=imfreitas&theme=onedark)](https://github.com/imfreitas/github-profile-trophy)
+  
+<p align="center">
+  <h3 align="center">GitHub Trophies </h2>
+    <img width="60" src="https://user-images.githubusercontent.com/6661165/91657958-61b4fd00-eb00-11ea-9def-dc7ef5367e34.png" />  
+
+</p>
+  
+  [![trophy](https://github-profile-trophy.vercel.app/?username=imfreitas&theme=onedark)](https://github.com/imfreitas/github-profile-trophy)
+
 
 
 </div>
