@@ -39,7 +39,7 @@
 
 </p>
   
- # [![trophy](https://github-profile-trophy.vercel.app/?username=imfreitas&theme=onedark)](https://github.com/imfreitas/github-profile-trophy)
+  [![trophy](https://github-profile-trophy.vercel.app/?username=imfreitas&theme=onedark)](https://github.com/imfreitas/github-profile-trophy)
 
 
 
