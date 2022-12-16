@@ -41,9 +41,13 @@
   
   [![trophy](https://github-profile-trophy.vercel.app/?username=imfreitas&theme=onedark)](https://github.com/imfreitas/github-profile-trophy)
 
-
-
 </div>
+    <div align="center">
+<br><p align="centre"><b>Visitors Count</b></p>  
+       <img src="https://komarev.com/ghpvc/?username=imfreitas&style=plastic&color=00bfbf" width="180px">
+   
+
+<br></div>
 
 
 
