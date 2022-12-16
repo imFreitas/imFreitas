@@ -44,7 +44,7 @@
 </div>
     <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
-       <img src="https://komarev.com/ghpvc/?username=imfreitas&style=plastic&color=#17e0b5" width="180px">
+       <img src="https://komarev.com/ghpvc/?username=imfreitas&style=plastic&color=17e0b5" width="180px">
    
 
 <br></div>
