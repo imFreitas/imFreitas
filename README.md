@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=17e0b5&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=d10a34&size=35&center=true&vCenter=true&width=1000&lines=Olá!;+Meu+nome+é+Pedro+Henrique+de+Freitas;Tenho+19+anos;Sou+do+Brasil,+SP;Bem+vindo!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=f27f2c&size=35&center=true&vCenter=true&width=1000&lines=Olá!;+Meu+nome+é+Pedro+Henrique+de+Freitas;Tenho+19+anos;Sou+do+Brasil,+SP;Bem+vindo!+:%29)](https://git.io/typing-svg)
 
 <h3 align="center"> 🔭 Estou procurando emprego. <h3>
 <h3 align="center"> 📙Formado em Desenvolvimento Web Java no instituto PROA. <h3>
