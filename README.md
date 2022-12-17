@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=16e7b6&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=88b777&height=120&section=header"/>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=f27f2c&size=35&center=true&vCenter=true&width=1000&lines=Olá!;+Meu+nome+é+Pedro+Henrique+de+Freitas;Tenho+19+anos;Sou+do+Brasil,+SP;Bem+vindo!+:%29)](https://git.io/typing-svg)
 
@@ -53,4 +53,4 @@
 
 
 </div>
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=16e7b6&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=88b777&height=120&section=footer"/>
