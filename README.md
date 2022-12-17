@@ -35,15 +35,15 @@
   <br>
     
 <p align="center">
- <h2 align="center">GitHub Trophies🏆</h2>
+ <h2 align="center">🏆</h2>
 
 </p>
   
-  [![trophy](https://github-profile-trophy.vercel.app/?username=imfreitas&theme=onedark)](https://github.com/imfreitas/github-profile-trophy)
+  [![trophy](https://github-profile-trophy.vercel.app/?username=imfreitas&theme=juicyfresh)](https://github.com/imfreitas/github-profile-trophy)
 
 </div>
     <div align="center">
-<br><p align="centre"><b>Visitors Count</b></p>  
+<br><p align="centre"><b>Visitantes</b></p>  
        <img src="https://komarev.com/ghpvc/?username=imfreitas&style=plastic&color=17e0b5" width="180px">
    
 
