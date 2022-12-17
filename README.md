@@ -6,13 +6,13 @@
 <h3 align="center"> 📙Formado em Desenvolvimento Web Java no instituto PROA. <h3>
 <h3 align="center"> 📫 Contate-me no email: opedrofreitass@gmail.com <h3>
 
-| ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=imfreitas&theme=2077) | ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=imfreitas&theme=2077&utcOffset=8) |
+| ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=imfreitas&theme=gruvbox) | ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=imfreitas&theme=gruvbox&utcOffset=8) |
 | :-: | :-: |
 
 <div align="center">
   <a href="https://github.com/imFreitas">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=imfreitas&show_icons=true&theme=gotham&hide_border=true&area=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imfreitas&layout=compact&langs_count=7&theme=gotham&hide_border=true&area=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=imfreitas&show_icons=true&theme=gruvbox&hide_border=true&area=true"/>
+  <img height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=imfreitas&theme=gruvbox"/>
   
  
 </div>
