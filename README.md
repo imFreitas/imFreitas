@@ -12,7 +12,7 @@
 <div align="center">
   <a href="https://github.com/imFreitas">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=imfreitas&show_icons=true&theme=gruvbox&hide_border=true&area=true"/>
-  <img height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=imfreitas&theme=gruvbox"/>
+  <img height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=imfreitas&theme=gruvbox"/>
   
  
 </div>
