@@ -7,7 +7,6 @@
 <h3 align="center"> 📫 Contate-me no email: opedrofreitass@gmail.com <h3>
 
 <div align="center">
-      <img width="800px"  src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=imfreitas&theme=midnight-purple"/>
       <br></br>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=imfreitas&show_icons=true&theme=midnight-purple&area=true&hide_border=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imfreitas&layout=compact&theme=midnight-purple&hide_border=true"/>
@@ -36,16 +35,8 @@
   
   <br>
     
-<p align="center">
- <h2 align="center">🏆</h2>
-
-</p>
-  
-  [![trophy](https://github-profile-trophy.vercel.app/?username=imfreitas&theme=juicyfresh)](https://github.com/imfreitas/github-profile-trophy)
-
-</div>
-    <div align="center">
-<br><p align="centre"><b>Visitantes</b></p>  
+#
+<br><h3 align="centre"><b>Visitantes</b></h3>  
        <img src="https://komarev.com/ghpvc/?username=imfreitas&style=plastic&color=662c73" width="180px">
    
 
@@ -55,3 +46,6 @@
 
 </div>
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=662c73&height=120&section=footer"/>
+      
+      
+
