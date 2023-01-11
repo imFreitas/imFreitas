@@ -2,6 +2,9 @@
       
 ![Typing SVG](https://user-images.githubusercontent.com/110676473/211913333-b6ed48b2-e496-47c6-ae84-d59302be690a.svg)
       
+      
+<img src="https://user-images.githubusercontent.com/110676473/211917014-01e2260f-991f-488f-94c7-dcd075c3ac79.svg">
+
 </div>
 
 
@@ -14,32 +17,8 @@
     
  
 <div align="center">
-
-<!--
-<h1>
-    <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30">
-    Hi there 
-  </h1>
   
-  <img src="https://raw.githubusercontent.com/CatsJuice/CatsJuice/output/github-contribution-grid-snake.svg#gh-light-mode-only" />
-  <img src="https://raw.githubusercontent.com/CatsJuice/CatsJuice/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" />
--->
-
-<a href="https://github.com/CatsJuice/ssr-contributions-img">
-
-   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://ssr-contributions-svg.vercel.app/_/CatsJuice?chart=3dbar&flatten=1&weeks=40&animation=wave&format=svg&gap=0.6&animation_frequency=0.2&animation_amplitude=20&theme=pink&dark=true">
-    <source media="(prefers-color-scheme: light)" srcset="https://ssr-contributions-svg.vercel.app/_/CatsJuice?chart=3dbar&flatten=1&weeks=40&animation=wave&format=svg&gap=0.6&animation_frequency=0.2&animation_amplitude=20&theme=pink">
-    <img alt="" src="https://ssr-contributions-svg.vercel.app/_/CatsJuice?chart=3dbar&flatten=1&weeks=40&animation=wave&format=svg&gap=0.6&animation_frequency=0.2&animation_amplitude=20&theme=pink" >
-  </picture>
-</a>
-  
-  
-</div>
- 
-</div>
-  
- ##
+### Tecnologias 
 <div style="display: inline_block" align="center"><br>
   <img align="center" alt="Pedro-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Pedro-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
@@ -53,7 +32,7 @@
   <img align="center" alt="Pedro-Node.js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
 
 
-   
+### Mais sobre mim   
 <div style="display: inline_block"><br>
   <a href="https://www.instagram.com/im_freitas/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:opedrofreitass@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
@@ -63,7 +42,7 @@
     
 #
 <br><h3 align="centre"><b>Visitantes</b></h3>  
-       <img src="https://komarev.com/ghpvc/?username=imfreitas&style=plastic&color=662c73" width="180px">
+       <img src="https://komarev.com/ghpvc/?username=imfreitas&style=plastic&color=0d1117" width="180px">
    
 
 <br></div>
