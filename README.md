@@ -1,15 +1,41 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=662c73&height=120&section=header"/>
+<div align="center">
+      
+![Typing SVG](https://user-images.githubusercontent.com/110676473/211913333-b6ed48b2-e496-47c6-ae84-d59302be690a.svg)
+      
+</div>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=662c73&size=35&center=true&vCenter=true&width=1000&lines=Olá!;+Meu+nome+é+Pedro+Henrique+de+Freitas;Tenho+19+anos;Sou+do+Brasil,+SP;Bem+vindo!+:%29)](https://git.io/typing-svg)
 
-<h3 align="center"> 🔭 Estou procurando emprego. <h3>
+<h3 align="center"> 🔭 Meu nome é Pedro Henrique, Tenho 19 anos e sou de São Paulo. <h3>
 <h3 align="center"> 📙Formado em Desenvolvimento Web Java no instituto PROA. <h3>
 <h3 align="center"> 📫 Contate-me no email: opedrofreitass@gmail.com <h3>
 
 <div align="center">
-      <br></br>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=imfreitas&show_icons=true&theme=midnight-purple&area=true&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imfreitas&layout=compact&theme=midnight-purple&hide_border=true"/>
+<br></br>
+    
+ 
+<div align="center">
+
+<!--
+<h1>
+    <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30">
+    Hi there 
+  </h1>
+  
+  <img src="https://raw.githubusercontent.com/CatsJuice/CatsJuice/output/github-contribution-grid-snake.svg#gh-light-mode-only" />
+  <img src="https://raw.githubusercontent.com/CatsJuice/CatsJuice/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" />
+-->
+
+<a href="https://github.com/CatsJuice/ssr-contributions-img">
+
+   <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://ssr-contributions-svg.vercel.app/_/CatsJuice?chart=3dbar&flatten=1&weeks=40&animation=wave&format=svg&gap=0.6&animation_frequency=0.2&animation_amplitude=20&theme=pink&dark=true">
+    <source media="(prefers-color-scheme: light)" srcset="https://ssr-contributions-svg.vercel.app/_/CatsJuice?chart=3dbar&flatten=1&weeks=40&animation=wave&format=svg&gap=0.6&animation_frequency=0.2&animation_amplitude=20&theme=pink">
+    <img alt="" src="https://ssr-contributions-svg.vercel.app/_/CatsJuice?chart=3dbar&flatten=1&weeks=40&animation=wave&format=svg&gap=0.6&animation_frequency=0.2&animation_amplitude=20&theme=pink" >
+  </picture>
+</a>
+  
+  
+</div>
  
 </div>
   
@@ -45,7 +71,6 @@
 
 
 </div>
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=662c73&height=120&section=footer"/>
-      
+
       
 
