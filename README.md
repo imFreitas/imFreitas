@@ -3,7 +3,7 @@
 ![Typing SVG](https://user-images.githubusercontent.com/110676473/211913333-b6ed48b2-e496-47c6-ae84-d59302be690a.svg)
       
       
-<img src="https://user-images.githubusercontent.com/110676473/211917014-01e2260f-991f-488f-94c7-dcd075c3ac79.svg">
+<img src="https://user-images.githubusercontent.com/110676473/211967594-91043679-a2d5-48b7-a566-69fea30a1ffd.svg">
 
 </div>
 
