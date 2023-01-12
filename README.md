@@ -6,7 +6,6 @@
 <img src="https://user-images.githubusercontent.com/110676473/211967594-91043679-a2d5-48b7-a566-69fea30a1ffd.svg">
 
 
-
 ### ***👨‍💻Meu nome é Pedro Henrique, Tenho 19 anos e sou de São Paulo.***
 ### ***📙Formado em Desenvolvimento Web Java no instituto PROA.***
 ### ***📫 Contate-me no email: opedrofreitass@gmail.com***
@@ -18,7 +17,7 @@
  
 <div align="center">
   
-### ***Tecnologias***
+ ### ***Tecnologias*** 
 <div style="display: inline_block" align="center"><br>
   <img align="center"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30" width="40" alt="figma logo"  />
   <img align="center"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" width="40" alt="vscode logo"  />
@@ -44,7 +43,7 @@
   <br>
     
 #
-<br><h3 align="centre"><b>***Visitantes***</b></h3>  
+<br><h3 align="centre"><b>***``Visitantes``***</b></h3>  
        <img src="https://komarev.com/ghpvc/?username=imfreitas&style=plastic&color=C66338" width="180px">
    
 
