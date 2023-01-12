@@ -5,20 +5,20 @@
       
 <img src="https://user-images.githubusercontent.com/110676473/211967594-91043679-a2d5-48b7-a566-69fea30a1ffd.svg">
 
-</div>
 
 
-<h3 align="center"> 🔭 Meu nome é Pedro Henrique, Tenho 19 anos e sou de São Paulo. <h3>
-<h3 align="center"> 📙Formado em Desenvolvimento Web Java no instituto PROA. <h3>
-<h3 align="center"> 📫 Contate-me no email: opedrofreitass@gmail.com <h3>
+### ***👨‍💻Meu nome é Pedro Henrique, Tenho 19 anos e sou de São Paulo.***
+### ***📙Formado em Desenvolvimento Web Java no instituto PROA.***
+### ***📫 Contate-me no email: opedrofreitass@gmail.com***
 
+     
 <div align="center">
 <br></br>
     
  
 <div align="center">
   
-### Tecnologias 
+### ***Tecnologias***
 <div style="display: inline_block" align="center"><br>
   <img align="center"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30" width="40" alt="figma logo"  />
   <img align="center"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" width="40" alt="vscode logo"  />
@@ -35,7 +35,7 @@
   <img align="center" alt="Pedro-Node.js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
 
 
-### Mais sobre mim   
+### ***Mais sobre mim***   
 <div style="display: inline_block"><br>
   <a href="https://www.instagram.com/im_freitas/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:opedrofreitass@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
@@ -44,7 +44,7 @@
   <br>
     
 #
-<br><h3 align="centre"><b>Visitantes</b></h3>  
+<br><h3 align="centre"><b>***Visitantes***</b></h3>  
        <img src="https://komarev.com/ghpvc/?username=imfreitas&style=plastic&color=C66338" width="180px">
    
 
