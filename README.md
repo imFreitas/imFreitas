@@ -1,3 +1,7 @@
+
+<img align="right" src="https://komarev.com/ghpvc/?username=imfreitas&style=plastic&color=C66338" width="135px"> 
+
+   
 <div align="center">
       
 ![Typing SVG](https://user-images.githubusercontent.com/110676473/211913333-b6ed48b2-e496-47c6-ae84-d59302be690a.svg)
@@ -41,15 +45,6 @@
   <a href="https://www.linkedin.com/in/imphfreitas/)" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
   <br>
-    
-#
-<br><h3 align="centre"><b>***``Visitantes``***</b></h3>  
-       <img src="https://komarev.com/ghpvc/?username=imfreitas&style=plastic&color=C66338" width="180px">
-   
-
-<br></div>
-
-
 
 </div>
 
