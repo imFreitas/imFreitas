@@ -44,7 +44,7 @@
     
 #
 <br><h3 align="centre"><b>Visitantes</b></h3>  
-       <img src="https://komarev.com/ghpvc/?username=imfreitas&style=plastic&color=662142" width="180px">
+       <img src="https://komarev.com/ghpvc/?username=imfreitas&style=plastic&color=C66338" width="180px">
    
 
 <br></div>
