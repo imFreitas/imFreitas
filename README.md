@@ -6,9 +6,15 @@
       
 ![Typing SVG](https://user-images.githubusercontent.com/110676473/211913333-b6ed48b2-e496-47c6-ae84-d59302be690a.svg)
       
-      
+
 <img src="https://user-images.githubusercontent.com/110676473/211967594-91043679-a2d5-48b7-a566-69fea30a1ffd.svg">
 
+
+
+### Github Commits
+
+## <picture> <img src = "https://user-images.githubusercontent.com/110676473/212411215-f87b5814-b3b4-4042-9f95-1c74d9cf1ea3.gif" width = 150px>  </picture> 
+<br>
 
 ### ***👨‍💻Meu nome é Pedro Henrique, Tenho 19 anos e sou de São Paulo.***
 ### ***📙Formado em Desenvolvimento Web Java no instituto PROA.***
@@ -21,7 +27,7 @@
  
 <div align="center">
   
- ### ***Tecnologias*** 
+ # <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 40px height="40px"> ***Tecnologias*** 
 <div style="display: inline_block" align="center"><br>
   <img align="center"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30" width="40" alt="figma logo"  />
   <img align="center"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" width="40" alt="vscode logo"  />
