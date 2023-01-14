@@ -10,8 +10,7 @@
 <img src="https://user-images.githubusercontent.com/110676473/211967594-91043679-a2d5-48b7-a566-69fea30a1ffd.svg">
 
 
-
-### Github Commits
+### ***Github Commits***
 
 ## <picture> <img src = "https://user-images.githubusercontent.com/110676473/212411215-f87b5814-b3b4-4042-9f95-1c74d9cf1ea3.gif" width = 150px>  </picture> 
 <br>
