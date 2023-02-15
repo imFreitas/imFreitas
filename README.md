@@ -17,6 +17,7 @@
 
 ### ***👨‍💻Meu nome é Pedro Henrique, Tenho 19 anos e sou de São Paulo.***
 ### ***📙Formado em Desenvolvimento Web Java no instituto PROA.***
+### ***👨‍🎓Estudante de Análise e Desenvolvimento de Sistemas na FIAP.***
 ### ***📫 Contate-me no email: opedrofreitass@gmail.com***
 
      
